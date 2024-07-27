@@ -1,5 +1,6 @@
-# React + TypeScript + Vite + TailwindCSS + Phosphor Icons
+# Practice of Day - Login Page
 
+React + TypeScript + Vite + TailwindCSS + Phosphor Icons
 
 <p align="center">
 <a href="https://www.github.com/alysonmartins/">
