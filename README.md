@@ -1,4 +1,4 @@
-# Practice of Day - Login Page
+# Practice of the Day - Login Page [Vitruve]
 
 React + TypeScript + Vite + TailwindCSS + Phosphor Icons
 
