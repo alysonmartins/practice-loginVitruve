@@ -1,4 +1,4 @@
-# React + TypeScript + Vite + TailwindCSS
+# React + TypeScript + Vite + TailwindCSS + Phosphor Icons
 
 
-Login Page Example# practice-loginVitruve
+Login Page Example
